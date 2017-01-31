@@ -22,7 +22,7 @@ knex.select('*')
   .where('first_name', 'like', args)
   .orWhere('last_name', 'like', args)
   .then((rows) => {
-    console.log(rows[0]);
+    console.log(rows[0])
     console.log(`Found 1 person(s) by the name '${name}':
     - ${rows[0].id}: ${rows[0].first_name} ${rows[0].last_name}, ` +
     `born '${(rows[0].birthdate.toString().split("").slice(0,15).join(""))}'`);
