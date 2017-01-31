@@ -1,0 +1,23 @@
+{
+  "name": "js2postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^6.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ady0906/js2postgresql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ady0906/js2postgresql/issues"
+  },
+  "homepage": "https://github.com/ady0906/js2postgresql#readme"
+}
