@@ -1,0 +1,8 @@
+{
+  "user": "jehjlxvsbbzife",
+  "password": "f59322b9d2795c4f23ac7651d5afc07cd7ae20321e324c00a8e465d60330de23",
+  "database": "dae1q45bukbrck",
+  "hostname": "ec2-107-20-149-243.compute-1.amazonaws.com",
+  "port": 5432,
+  "ssl": true
+}
